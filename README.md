@@ -1,3 +1,4 @@
 # duty-roaster
-I am creating a software for scheduling duty roaster. 
-I am starting by a case where 8 doctors are working in a particular hospital.
+
+We’re creating smart scheduling software that makes it easy for colleges, universities, and hospitals to plan timetables, shifts, and tasks. It works for any organization, but we’re starting with education and healthcare.
+(AI Generated)
